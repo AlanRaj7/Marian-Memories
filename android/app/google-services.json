@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122509279770",
+    "project_id": "proj-227cc",
+    "storage_bucket": "proj-227cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122509279770:android:cd5f5ab129e51c546647a3",
+        "android_client_info": {
+          "package_name": "com.example.marianmemories"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFv4Zq7i_IbWFrccqeOZgSOilV4u3EPrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
